@@ -12,7 +12,7 @@ C.  [IoT Projects](#c-iot-projects)<br />
 <h2 align="center">A. Machine and Deep Learning Projects</h2>
 
 <p align="center"> 
-<a href="https://github.com/MohamedElahl/Compiler-provenance-using-machine-learning" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223572264-e004089b-2efa-4cec-b884-aa18c3db5ee6.png" alt="CompilerProvenance" width="800" height="250"/> </a> </p>
+<a href="https://github.com/MohamedElahl/Compiler-provenance-using-machine-learning" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223572264-e004089b-2efa-4cec-b884-aa18c3db5ee6.png" alt="CompilerProvenance" width="800" /> </a> </p>
 
 ### 1. Compiler Provenance Attribution [^1]
 
@@ -26,7 +26,7 @@ C.  [IoT Projects](#c-iot-projects)<br />
 <h2 align="center"> </h2>
 
 <p align="center"> 
-<a href="https://github.com/MohamedElahl/Exterior-Car-Body-Parts-Localization" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223578944-41748a39-f16c-4135-a19e-70190d3959d6.png" alt="BodyParts" width="800" height="250"/> </a> </p>
+<a href="https://github.com/MohamedElahl/Exterior-Car-Body-Parts-Localization" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223578944-41748a39-f16c-4135-a19e-70190d3959d6.png" alt="BodyParts" width="800"/> </a> </p>
 
 ### 2. Car Exterior Body Parts Localization [^1]
 
@@ -39,7 +39,7 @@ C.  [IoT Projects](#c-iot-projects)<br />
 <br />
 <h2 align="center">B. Robotics Projects</h2>
 <p align="center"> 
-<a href="https://github.com/MohamedElahl/TurtleBot3-ROS-Maze-Navigation" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223705199-65a0bce0-92c0-4cc8-b6d2-bf77d8a3fd5c.png" alt="Turtlebot3 Navigation" width="800" height="250"/> </a> </p>
+<a href="https://github.com/MohamedElahl/TurtleBot3-ROS-Maze-Navigation" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223705199-65a0bce0-92c0-4cc8-b6d2-bf77d8a3fd5c.png" alt="Turtlebot3 Navigation" width="800"/> </a> </p>
 
 ### 1. ROS-based Turtlebot3 Maze Navigation [^1]
 
@@ -53,7 +53,7 @@ C.  [IoT Projects](#c-iot-projects)<br />
 <h2 align="center">C. IoT Projects</h2>
 
 <p align="center"> 
-<a href="https://github.com/MohamedElahl/ParkingApp" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223804452-b547548c-37cd-4514-8b05-ef929f56e5cf.png" alt="ParkingApp" width="800" height="250"/> </a> </p>
+<a href="https://github.com/MohamedElahl/ParkingApp" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/86476979/223804452-b547548c-37cd-4514-8b05-ef929f56e5cf.png" alt="ParkingApp" width="800"/> </a> </p>
 
 
 ### 1. Smart Parking System [^2]
